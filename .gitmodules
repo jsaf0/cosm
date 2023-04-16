@@ -1,0 +1,9 @@
+[submodule "boost-sam"]
+	path = boost-sam
+	url = https://github.com/klemens-morgenstern/sam.git
+[submodule "boost"]
+	path = boost
+	url = https://github.com/boostorg/boost.git
+[submodule "boost-async"]
+	path = boost-async
+	url = https://github.com/klemens-morgenstern/async.git
